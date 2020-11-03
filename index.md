@@ -2,6 +2,6 @@
 
 The secret recipe is given by mum.
 
-- pizzas
-- pastas
-- lasagna
+- pizas
+- pasta
+- lasania
